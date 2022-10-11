@@ -1,0 +1,182 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #dcdcdc;
+
+}
+
+#container {
+    border: 0px solid greenyellow;
+    height: 100%;
+    width: 100%;
+    float: none;
+
+}
+
+.topo {
+    border: 0px solid red;
+    background: url(../imagens/imagemtopo.jpg);
+    padding: 0px;
+    width: 100%;
+    height: 200px;
+    min-width: 400px;
+    color: #ffd700;
+
+    float: left;
+
+
+
+
+
+}
+
+h1 {
+
+    font-weight: bold;
+    text-align: center;
+    font-size: 4em;
+
+
+}
+
+h2 {
+    font-size: 1.5em;
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-size: 1em;
+}
+
+p a {
+    text-decoration: none;
+    color: #00ff00;
+}
+
+p a:hover {
+    background: black;
+}
+
+.menu {
+
+    clear: both;
+
+
+    width: 720px;
+    margin-left: auto;
+    text-align: right;
+    color: #111111;
+    font-size: 1.5em;
+
+}
+
+.menu a {
+    text-decoration: none;
+    text-align: center;
+    padding: 0;
+    margin: 5px;
+    color: white;
+
+}
+
+.menu li {
+    list-style: none;
+    text-align: center;
+    display: inline;
+
+}
+
+#pricipal {
+    width: 820px;
+    border: 0px solid red;
+    margin-left: 280px;
+    background: white;
+    float: left;
+    margin-top: 15px;
+    border: 1px silod red;
+
+
+
+}
+
+#pricipal2 {
+    border: 0px solid red;
+
+    width: 380px;
+    margin-top: 5px;
+    float: left;
+    padding: 5px;
+    margin: 5px;
+    color: black;
+    font-size: 1em;
+
+}
+
+#pricipal3 {
+    border: 0px solid red;
+    width: 380px;
+    float: left;
+    padding: 5px;
+    margin: 5px;
+    color: black;
+
+
+}
+
+#pricipal4 {
+    border: 0px solid red;
+    width: 800px;
+    float: left;
+    padding: 5px;
+    margin: 5px;
+    background: url(../imagens/imagemtopo.jpg);
+    margin-left: 280px;
+    text-align: center;
+    color: yellow;
+
+}
+
+.menu a:hover {
+    background-color: black;
+    color: white;
+}
+/* ____vieira Noticias____*/
+
+.p {
+    border: 0px solid red;
+    float: left;
+    width: 450px;
+    margin: 10px 5px;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 5px;
+    background: #f5f5dc ;
+    text-align: left;
+
+}
+
+  
+
+.o {
+    border: 0px solid red;
+
+    padding: 5px;
+    width: 330px;
+    float: right;
+    margin: 10px 5px;
+    background: #f5f5dc;
+
+
+}
+h4 {
+    text-align: left;
+   
+}
+.paragrafo{
+    text-align: left;
+}
+.djvieiratitulo{
+    text-align: left;
+}
